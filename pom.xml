@@ -30,7 +30,7 @@
         <url>http://github.com/cristianobombazar/dwf-library/tree/master</url>
     </scm>
 
-    <groupId>com.github</groupId>
+    <groupId>com.github.cristianobombazar</groupId>
     <artifactId>dwflibrary</artifactId>
     <version>0.0.0.1</version>
 
