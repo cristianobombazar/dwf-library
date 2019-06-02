@@ -4,8 +4,34 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+    <name>dwf-library</name>
+    <description>A library for the further projects to make simple start a new project</description>
+    <url>https://github.com/cristianobombazar/dwf-library</url>
+
+    <licenses>
+        <license>
+            <name>The Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Cristiano Bombazar</name>
+            <email>cristiaano.bombazar@gmail.com</email>
+            <organization>https://github.com/cristianobombazar/dwf-library</organization>
+            <organizationUrl>https://github.com/cristianobombazar/dwf-library</organizationUrl>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git://github.com/cristianobombazar/dwf-libraryo.git</connection>
+        <developerConnection>scm:git:ssh://github.com:cristianobombazar/dwf-library.git</developerConnection>
+        <url>http://github.com/cristianobombazar/dwf-library/tree/master</url>
+    </scm>
+
     <groupId>com.dwf</groupId>
-    <artifactId>dwf-library</artifactId>
+    <artifactId>core</artifactId>
     <version>0.0.0.1</version>
 
     <properties>
